@@ -1,0 +1,10 @@
+{
+    "name": "smalltomato/default_site",
+    "authors": [
+        {
+            "name": "huanyuwong",
+            "email": "taikomail@163.com"
+        }
+    ],
+    "require": {}
+}
